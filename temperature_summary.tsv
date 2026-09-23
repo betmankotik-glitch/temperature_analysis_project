@@ -1,0 +1,10 @@
+metric	value
+min_night_temperature	-12.00
+max_day_temperature	34.00
+mean_day_temperature	14.52
+mean_night_temperature	6.73
+sum_day_temperature	5298.00
+sum_night_temperature	2458.00
+days_count	365
+below_zero_nights	67
+at_or_above_30_days	19
